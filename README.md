@@ -15,7 +15,7 @@ Navegue pelo universo das criptomoedas com o **Real Crypto Value**! Um site mode
 
 Cansado de informações desatualizadas? O **Real Crypto Value** nasceu da necessidade de uma plataforma ágil e confiável para acompanhar as constantes flutuações do mercado de criptomoedas. Nosso objetivo é fornecer dados precisos e em tempo real, permitindo que você tome decisões mais informadas e estratégicas, seja você um investidor experiente ou um entusiasta curioso!
 
-## 🚀 Funcionalidades que Você Vai Amar
+## 🚀 Funcionalidades
 
 * 📊 **Cotações em Tempo Real:** Acompanhe os preços mais recentes das principais criptomoedas do mercado, atualizados constantemente.
 * 🔍 **Busca Inteligente:** Encontre facilmente informações detalhadas sobre qualquer criptomoeda com nossa ferramenta de busca.
