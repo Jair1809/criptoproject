@@ -2,18 +2,18 @@
 
 Markdown
 
-# 🪙 Real Crypto Project - Cotações de Criptomoedas em Tempo Real 📈
+# 🪙 Crypto Project - Cotações de Criptomoedas em Tempo Real 📈
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 [![CoinCap API](https://img.shields.io/badge/API-CoinCap-brightgreen?style=for-the-badge)](https://docs.coincap.io/)
 
-Navegue pelo universo das criptomoedas com o **Real Crypto Value**! Um site moderno, rápido e responsivo, construído para você visualizar as cotações das suas criptos favoritas em tempo real, diretamente da API da CoinCap.
+Navegue pelo universo das criptomoedas com o **Crypto Project**! Um site moderno, rápido e responsivo, construído para você visualizar as cotações das suas criptos favoritas em tempo real, diretamente da API da CoinCap.
 
 ## ✨ Visão Geral do Projeto
 
-Cansado de informações desatualizadas? O **Real Crypto Value** nasceu da necessidade de uma plataforma ágil e confiável para acompanhar as constantes flutuações do mercado de criptomoedas. Nosso objetivo é fornecer dados precisos e em tempo real, permitindo que você tome decisões mais informadas e estratégicas, seja você um investidor experiente ou um entusiasta curioso!
+Cansado de informações desatualizadas? O **Crypto Project** nasceu da necessidade de uma plataforma ágil e confiável para acompanhar as constantes flutuações do mercado de criptomoedas. Nosso objetivo é fornecer dados precisos e em tempo real, permitindo que você tome decisões mais informadas e estratégicas, seja você um investidor experiente ou um entusiasta curioso!
 
 ## 🚀 Funcionalidades
 
