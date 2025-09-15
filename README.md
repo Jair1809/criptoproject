@@ -1,8 +1,8 @@
-Claro! Vamos deixar esse README mais interessante e completo:
+
 
 Markdown
 
-# 🪙 Real Crypto Value - Cotações de Criptomoedas em Tempo Real 📈
+# 🪙 Real Crypto Project - Cotações de Criptomoedas em Tempo Real 📈
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
